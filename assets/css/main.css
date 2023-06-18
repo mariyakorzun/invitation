@@ -4,13 +4,13 @@
 @font-face {
   font-family: 'Brittany';
   src: local("BrittanySignatureRegular"), 
-  url(/webfonts/BrittanySignature.woff);
+  url(../webfonts/BrittanySignature.woff);
 }
 
 @font-face {
   font-family: 'Aristotelica';
   src: local("AristotelicaProTx-Extlt"), 
-  url(/webfonts/AristotelicaProExtralight.otf);
+  url(../webfonts/AristotelicaProExtralight.otf);
 }
 
 html, body, div, span, applet, object,
